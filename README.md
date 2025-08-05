@@ -42,7 +42,7 @@ Each project in this repo is:
 
 | No. | Project Name               | Source Code | Live Preview | Why It Stands Out |
 |-----|----------------------------|-------------|--------------|--------------------|
-| 01  | Pricing Table UI           | [View Code](#) | [Preview Site](#) | Clean SaaS pricing layout using Flexbox/Grid |
+| 01  | Pricing Table UI           | [View Code](https://github.com/abdulmatin54/css-only-projects/tree/main/pricing%20table%20ui) | [Preview Site](https://abdulmatin54.github.io/css-only-projects/pricing%20table%20ui/index.html) | Clean SaaS pricing layout using Flexbox/Grid |
 | 02  | Glassmorphism Profile Card | [View Code](#) | [Preview Site](#) | Uses backdrop filters, shadows, and layering |
 | 03  | Responsive Navbar          | [View Code](#) | [Preview Site](#) | Navigation adapts to screen size, media queries |
 | 04  | Login / Signup Form UI     | [View Code](#) | [Preview Site](#) | Centered layout, styled inputs, semantic form structure |
