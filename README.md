@@ -1,5 +1,3 @@
-# css-only-projects
-UI styling, animations, layout
 
 # 🎨 CSS-Only Projects
 
