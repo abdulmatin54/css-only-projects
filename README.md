@@ -5,24 +5,7 @@ UI styling, animations, layout
 
 Welcome to **CSS-Only Projects** – a curated collection of visually stunning, performance-optimized, and fully functional **UI components, layouts, and micro-interactions built using 100% pure CSS** — no JavaScript, no frameworks, just the raw power of CSS.
 
-## 🚀 Why This Repo?
 
-In an era dominated by frameworks, this repository is a bold demonstration of what's possible with **just CSS**. It's built to:
-
-- 💡 Showcase creativity with constraints.
-- 🧠 Master core CSS concepts deeply.
-- 📐 Build a strong foundation for frontend performance and accessibility.
-- 🏆 Stand out as a developer who truly understands the web from the ground up.
-
-## ✨ What You'll Find
-
-Each project in this repo is:
-
-- ✅ 100% **JavaScript-free** (unless stated otherwise for optional comparison)
-- ✅ Fully **responsive**
-- ✅ Uses **modern CSS techniques** (Flexbox, Grid, Variables, Transitions, Animations, etc.)
-- ✅ **Mobile-first** and performance-conscious
-- ✅ Built with **production-quality code & structure**
 
 ## 🔥 Who Is This For?
 
@@ -43,7 +26,7 @@ Each project in this repo is:
 | No. | Project Name               | Source Code | Live Preview | Why It Stands Out |
 |-----|----------------------------|-------------|--------------|--------------------|
 | 01  | Pricing Table UI           | [View Code](https://github.com/abdulmatin54/css-only-projects/tree/main/pricing%20table%20ui) | [Preview Site](https://abdulmatin54.github.io/css-only-projects/pricing%20table%20ui/index.html) | Clean SaaS pricing layout using Flexbox/Grid |
-| 02  | Glassmorphism Profile Card | [View Code](#) | [Preview Site](#) | Uses backdrop filters, shadows, and layering |
+| 02  | Glassmorphism Profile Card | [View Code](https://github.com/abdulmatin54/css-only-projects/tree/main/Glassmorphism%20profile%20card) | [Preview Site](https://abdulmatin54.github.io/css-only-projects/Glassmorphism%20profile%20card/index.html) | Uses backdrop filters, shadows, and layering |
 | 03  | Responsive Navbar          | [View Code](#) | [Preview Site](#) | Navigation adapts to screen size, media queries |
 | 04  | Login / Signup Form UI     | [View Code](#) | [Preview Site](#) | Centered layout, styled inputs, semantic form structure |
 | 05  | Responsive Footer Section  | [View Code](#) | [Preview Site](#) | Footer with grid/flex layout, icons, and responsive spacing |
